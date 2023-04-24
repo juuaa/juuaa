@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juuaan
+- 👋 Hi, I’m @juangomez
 - 👀 I’m interested in data analisys
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
